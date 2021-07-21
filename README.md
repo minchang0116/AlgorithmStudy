@@ -38,7 +38,7 @@
 ###  :family_man_girl: Contributors
 
 > [minchang0116](https://github.com/minchang0116)
->
+> [rladkd1234](https://github.com/rladkd1234)
 
 
 
