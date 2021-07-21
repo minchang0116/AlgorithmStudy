@@ -24,11 +24,14 @@
 
 ### :family_man_girl:Repository 규칙
 
->  BOJ/[문제번호] 문제 이름/계정/src
+>  [{백준}] {문제 이름}/{계정}/{파일}
+>  
+> e.g.
+> 
+> [백준] 문자열 폭발/minchang0116/Main.java
+> 
+> [백준] 문자열 폭발/minchang0116/README.md
 >
-> e.g) BOJ/[13460] 구슬 탈출2/dkwjdi/Main.java
->
-> BOJ/[문제번호] 문제 이름/계정/README.md
 
 
 
