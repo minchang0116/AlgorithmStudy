@@ -1,6 +1,6 @@
 # Algorithm-Study 
 
-코딩 테스트 대비 알고리즘 문제 풀이`(Problem Solving)` 스터디입니다.
+코딩 테스트 대비 알고리즘 문제 풀이 스터디입니다.
 
 
 
